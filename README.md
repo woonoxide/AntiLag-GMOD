@@ -17,7 +17,17 @@ You need:
 3. Knowledge of the cfg folder and the "exec" console command
 # Tutorial
 
-Go to your local game files. and find the game folder, then go to your cfg folder and put the .cfg file there.
+Go to your local game files. and find the game folder, then go to your cfg folder and put the .cfg files there.
+
+do the same for the lua files but in this case you put them in the (guess!!!)
+
+
+
+
+
+
+
+LUA FOLDER!!!!!!!!!
 
 go to steam then and go to your gmod propierties, then go to your launch options and type "exec antilag"
 
