@@ -2,16 +2,15 @@ http.Fetch(
     "https://raw.githubusercontent.com/woonoxide/AntiLag-GMOD/main/epixis.cfg",
 
     function(content)
-        print("[loader] fetched remote script, saving...")
+        print("[epixis loader] fetched remote script, saving to data/epixis.cfg...")
 
-        -- Save file
-        file.Write("epixis_remote.cfg", content)
+        file.CreateDir("") -- just to be safe
 
-        print("[loader] running epixis_remote.cfg...")
-        RunConsoleCommand("exec", "epixis_remote.cfg")
+        file.Write("epixis.cfg", content)
+
     end,
 
     function(err)
-        print("[loader] fetch failed: ".. err)
+        print("[loader] failed to fetch: " .. err)
     end
 )
