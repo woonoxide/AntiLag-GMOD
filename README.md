@@ -43,3 +43,21 @@ also theres sv_cheats 1 commands in epixis
 
 n kinect utilities.
 
+# UTILS:
+Epixis, the custom cheat script, it lets you do many cool things.
+##EPIXIS:
+nullcrash: crash server while nulled
+
+nofuckoff: nulls people
+
+ehelp: help command shit
+
+ehelp_npcs: help for NPC commands
+
+stripall: strips players of their weapons
+
+singularity: pulls EVERYTHING.
+
+clearup: clears (almost everything)
+
+editors: spawns (non customizable) sky editors
