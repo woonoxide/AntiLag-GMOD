@@ -1,3 +1,9 @@
+### credits
+
+deez nuts person: https://steamcommunity.com/id/jollypersonxd/
+
+edixos: https://steamcommunity.com/id/purpledescent/
+
 # Antilag For gMod
 
 i present to you. the antlag CFG, why? because i wanted to show off a basic antilag script i made and customized
@@ -5,6 +11,7 @@ i present to you. the antlag CFG, why? because i wanted to show off a basic anti
 WELL LETS GO!
 
 the file consists in helpful gmod commands in a set, plus new commands!
+
 # The New Commands.
 1. al_help = antilag commands
 2. antilag = run again the antilag
