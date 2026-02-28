@@ -61,6 +61,6 @@ stripall: strips players of their weapons
 
 singularity: pulls EVERYTHING.
 
-clearup: clears (almost everything)
+clearup: clears (almost) everything
 
 editors: spawns (non customizable) sky editors
