@@ -47,7 +47,7 @@ n kinect utilities.
 
 Epixis, the custom cheat script, it lets you do many cool things.
 
-##EPIXIS:
+## EPIXIS:
 
 nullcrash: crash server while nulled
 
